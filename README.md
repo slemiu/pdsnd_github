@@ -1,5 +1,5 @@
 Date of creation
-This project was created on the 19th September 2021
+This project was created on the 19/09/2021
 
 Project title:
 The title of this project is the Git/bikeshare project
