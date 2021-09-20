@@ -10,7 +10,7 @@ import numpy as np
 
 CITY_DATA=CITY_DATA={'Chicago': 'chicago.csv', 'New York City':'new_york_city.csv','Washington':'washington.csv'}
 city_list=list(CITY_DATA.keys())
-month_list=['January','February','March', 'April', 'May', 'June']
+month_list=['January','February','March', 'April', 'May', 'June', 'July']
 day_list=['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 
 
